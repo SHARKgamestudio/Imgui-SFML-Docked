@@ -78,6 +78,7 @@
     </None>
     <None Include=".gitignore" />
     <None Include="res\logo.psd" />
+    <None Include=".gitattributes" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\logo.png">
